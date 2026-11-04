@@ -4,7 +4,7 @@ Clone de estudo de um player de música web, feito em **React 19 + TypeScript + 
 
 > **Projeto de estudo, sem vínculo com o Spotify.** Spotify e demais marcas citadas pertencem aos seus donos. Não há logotipo, capa, foto, música, nome de artista ou de álbum reais neste repositório, nem formulário de login, senha ou pagamento.
 
-Demo: https://matheusfns27.github.io/clone-spotify/ (em breve)
+Demo: https://matheusfns27.github.io/clone-spotify/
 
 ## Capturas
 
